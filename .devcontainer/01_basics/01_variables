@@ -1,0 +1,12 @@
+const account_id = 1234
+let name = "Aashi"
+var id =" have@coffee"
+let tea;
+
+name = "Muskan"
+id = "have@tea"
+
+console.table([account_id, name, id, tea]);
+
+//const can't be changed 
+/* avoid using let variable because of issue in bloack scope and functional scope/*
