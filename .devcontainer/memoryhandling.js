@@ -1,0 +1,1 @@
+stack memory (primitive), Heap(non-primitive data type )
